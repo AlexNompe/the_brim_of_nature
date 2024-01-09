@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "thebrimofnature:alloyery_enchanter",
+    "thebrimofnature:enderlite_block",
+    "thebrimofnature:glimmer_block",
+    "thebrimofnature:glimmer_ingot_block"
+  ]
+}

@@ -1,0 +1,4 @@
+// 1.20.1	2024-01-08T16:57:13.5329042	The Brim Of Nature/Tags for minecraft:block
+4ebf8a0b06721af18e998b67d808a7684669f8aa data\fabric\tags\blocks\needs_tool_level_4.json
+00a72cbd0b330975a07b5c7a9d2024a71b887590 data\minecraft\tags\blocks\mineable\pickaxe.json
+d465159b3d0b938218ebb7b2ecb7bafd0eb480eb data\minecraft\tags\blocks\needs_diamond_tool.json

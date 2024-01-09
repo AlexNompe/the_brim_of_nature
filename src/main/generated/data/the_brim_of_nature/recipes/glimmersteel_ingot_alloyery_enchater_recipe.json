@@ -1,0 +1,24 @@
+{
+  "type": "thebrimofnature:alloyery_enchanting",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thebrimofnature:enderlite"
+    },
+    {
+      "item": "thebrimofnature:glimmer_shard"
+    },
+    {
+      "item": "thebrimofnature:glimmer_shard"
+    },
+    {
+      "item": "thebrimofnature:glimmer_shard"
+    },
+    {
+      "item": "thebrimofnature:glimmer_shard"
+    }
+  ],
+  "result": {
+    "item": "thebrimofnature:glimmersteel_ingot"
+  }
+}

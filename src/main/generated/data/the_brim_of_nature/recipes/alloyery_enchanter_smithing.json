@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "thebrimofnature:enderlite"
+  },
+  "base": {
+    "item": "minecraft:enchanting_table"
+  },
+  "result": {
+    "item": "thebrimofnature:alloyery_enchanter"
+  },
+  "template": []
+}

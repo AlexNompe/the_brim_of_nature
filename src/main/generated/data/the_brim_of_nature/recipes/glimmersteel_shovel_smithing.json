@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "thebrimofnature:glimmersteel_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "item": "thebrimofnature:glimmersteel_shovel"
+  },
+  "template": []
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "the_brim_of_nature",
+	"version": "${version}",
+	"name": "The Brim Of Nature",
+	"description": "hai :3",
+	"authors": [
+		"AlexNompe/brimm1nent_"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/the_brim_of_nature/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.thebrimofnature.The_Brim_Of_Nature"
+		],
+		"client": [
+			"net.thebrimofnature.The_Brim_Of_NatureClient"
+		],
+		"fabric-datagen": [
+			"net.thebrimofnature.The_Brim_Of_NatureDataGenerator"
+		]
+	},
+	"mixins": [
+		"the_brim_of_nature.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

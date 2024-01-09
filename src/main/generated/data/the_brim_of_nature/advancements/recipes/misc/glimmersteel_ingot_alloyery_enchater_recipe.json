@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_enderlite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thebrimofnature:enderlite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glimmer_shard": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thebrimofnature:glimmer_shard"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thebrimofnature:glimmersteel_ingot_alloyery_enchater_recipe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_enderlite",
+      "has_glimmer_shard",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thebrimofnature:glimmersteel_ingot_alloyery_enchater_recipe"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "thebrimofnature:custom/alloyery_enchanter",
+  "textures": {
+    "all": "thebrimofnature:block/alloyery_enchanter_side",
+    "particle": "thebrimofnature:block/alloyery_enchanter_side",
+    "0": "thebrimofnature:block/alloyery_enchanter_bottom",
+    "1": "thebrimofnature:block/alloyery_enchanter_side",
+    "2": "thebrimofnature:block/alloyery_enchanter_top",
+    "3": "thebrimofnature:block/alloyery_enchanter_effect",
+    "4": "thebrimofnature:block/alloyery_enchanter_effect_small"
+  },
+  "render_type": "cutout"
+}

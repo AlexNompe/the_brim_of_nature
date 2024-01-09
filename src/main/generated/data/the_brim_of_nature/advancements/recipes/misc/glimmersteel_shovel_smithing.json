@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_glimmersteel_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "thebrimofnature:glimmersteel_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_netherite_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_shovel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:glimmersteel_shovel_smithing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_netherite_shovel",
+      "has_glimmersteel_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:glimmersteel_shovel_smithing"
+    ]
+  },
+  "sends_telemetry_event": false
+}

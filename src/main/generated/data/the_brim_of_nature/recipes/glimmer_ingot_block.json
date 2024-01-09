@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "thebrimofnature:glimmersteel_ingot"
+    }
+  },
+  "pattern": [
+    "bb",
+    "bb"
+  ],
+  "result": {
+    "item": "thebrimofnature:glimmer_ingot_block"
+  },
+  "show_notification": true
+}

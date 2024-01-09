@@ -1,0 +1,15 @@
+{
+  "block.thebrimofnature.alloyery_enchanter": "Чаровальня сплавов",
+  "item.thebrimofnature.enderlite": "Эндерлит",
+  "item.thebrimofnature.glimmer_shard": "Мерцающий осколок",
+  "item.thebrimofnature.glimmersteel_ingot": "Слиток мерцающей стали",
+  "item.thebrimofnature.glimmersteel_sword": "Меч из мерцающей стали",
+  "item.thebrimofnature.glimmersteel_axe": "Топор из мерцающей стали",
+  "item.thebrimofnature.glimmersteel_pickaxe": "Кирка из мерцающей стали",
+  "item.thebrimofnature.glimmersteel_hoe": "Мотыга из мерцающей стали",
+  "item.thebrimofnature.glimmersteel_shovel": "Лопата из мерцающей стали",
+  "itemGroup.thebrimofnature.the_brim_of_nature": "Крайность природы",
+  "block.thebrimofnature.glimmer_block": "Мерцающий блок",
+  "block.thebrimofnature.enderlite_block": "Эндерлитовый блок",
+  "block.thebrimofnature.glimmer_ingot_block": "Блок мерцающей стали"
+}
